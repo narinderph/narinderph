@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @narinderph
-- 👀 I’m interested in DGLAP evolution, fitting of TMDs data from various high energy physics experiments.
-- 🌱 I’m currently learning python.
 - 📫 Reach me at narinderhep@gmail.com
 
 <!---
